@@ -1,0 +1,9 @@
+@echo off
+echo Esecuzione di analyze_trends.py...
+python analyze_trends.py
+echo Esecuzione di combine_translations.py...
+python combine_translations.py
+echo Esecuzione di optimize_keywords.py...
+python optimize_keywords.py
+echo Tutti gli script sono stati eseguiti!
+pause
