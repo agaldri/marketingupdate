@@ -1,8 +1,8 @@
 
 @echo off
 REM Configurazione: Inserisci il tuo nome utente GitHub e il nome del repository
-SET GITHUB_USERNAME=agaldri
-SET REPO_NAME=marketingupdate
+SET GITHUB_USERNAME=your_username
+SET REPO_NAME=my-project
 
 REM Naviga nella directory del repository
 cd /d "%~dp0"
